@@ -31,6 +31,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=swisszzChak.visitor-badge&left_color=gray&right_color=blue" alt="visitor badge"/>
+</p>
 
 ### 📊 GitHub Stats
 
