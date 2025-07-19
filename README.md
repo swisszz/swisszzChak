@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">swisszzChak</span></h1>
-<p align="center"><strong>🎮✔✌ IPTV Playlist Maker | M3U Curator | Content Explorer</strong></p>
+<h1 align="center">สวัสดีครับ 👋, ผมคือ <span style="color:#00BFFF;">swisszzChak</span></h1>
+<p align="center"><strong>🎮✔✌ ผู้สร้าง IPTV Playlist | นักคัดเลือก M3U | นักสำรวจคอนเทนต์</strong></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=สบายๆๆ+%f0%9f%98%89;เรียนรู้+IPTV+ไปทุกวัน+🌱;ลอง+Playlist+ใหม่เสมอ+🙌" />
@@ -9,9 +9,9 @@
 
 ### 💬 About Me
 
-* 😉 สบายๆๆ  
-* 🌱 I’m currently learning IPTV playlist & automation tools  
-* 🙌 I keep learning every day....
+* 😉 ชิวๆ สบายๆ  
+* 🌱 กำลังเรียนรู้เรื่อง IPTV playlist และเครื่องมืออัตโนมัติ  
+* 🙌 เรียนรู้สิ่งใหม่ทุกวัน เพื่อ playlist ที่ดียิ่งขึ้น
 
 <div align="center">
   <img src="https://media1.tenor.com/m/bfOEyTxwK40AAAAC/work-computer.gif" width="200"/>
@@ -65,7 +65,10 @@
 
 ### 📊 GitHub Stats
 
-
+<div align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=swisszzChak&show_icons=true&hide_border=true&theme=dark" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swisszzChak&hide_border=true&theme=dark&layout=compact" />
+</div>
 
 ---
 
@@ -81,5 +84,3 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/30
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes: SD⚽",FOX SPORTS MX
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/1971
-
-
