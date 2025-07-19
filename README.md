@@ -17,12 +17,13 @@
     <img src="https://komarev.com/ghpvc/?username=swisszzChak&style=flat-square&color=blue" alt="Profile views"/>
   </a>
 </div>
+📊 GitHub Stats
 
 ---
 
 ### 📺 Featured IPTV Playlist
 
-```m3u
+m3u
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆☆ ECUADOR ☆▆ ▅ ▄ ▂" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/ACTVE_Ecuador-0.png" group-title="Ecuador: Premium TV⭐",▂ ▄ ▅ ▆☆ ECUADOR ☆▆ ▅ ▄ ▂
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/26
@@ -31,4 +32,4 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/26
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/30
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes: SD⚽",Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/1971
+http://1.84423.xyz:8000/PS
