@@ -65,10 +65,7 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=swisszzChak&show_icons=true&hide_border=true&theme=dark" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swisszzChak&hide_border=true&theme=dark&layout=compact" />
-</div>
+
 
 ---
 
