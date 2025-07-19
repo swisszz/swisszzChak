@@ -35,11 +35,11 @@
 ### 🌍 ผู้เข้าชมจากทั่วโลก
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=swisszzChak.visitor-badge&left_color=gray&right_color=blue" alt="visitor badge"/>
+  ![Visitors](https://img.shields.io/badge/visitors-1K-blue)
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  ![GitHub Contribution Graph](https://ghchart.rshah.org/swisszzChak)
 </p>
 
 <p align="center">
