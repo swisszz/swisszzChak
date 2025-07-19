@@ -35,15 +35,7 @@
 ### 🌍 ผู้เข้าชมจากทั่วโลก
 
 <p align="center">
-  ![Visitors](https://img.shields.io/badge/visitors-1K-blue)
-</p>
-
-<p align="center">
-  ![GitHub Contribution Graph](https://ghchart.rshah.org/swisszzChak)
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=swisszzChak&theme=github_dark" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 **🌐 ผู้เข้าชมส่วนใหญ่มาจาก:**
