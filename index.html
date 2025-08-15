@@ -4,21 +4,21 @@
   <meta charset="UTF-8">
   <title>CHAK IPTV Redirect</title>
   <script>
-    // สร้างตัวแปร params เพื่อดึง query string
+    //  params query string
     const params = new URLSearchParams(window.location.search);
     const token = params.get("token");
 
-    // Token ที่คุณตั้งไว้
+ 
     const validToken = "chakip123";
 
-    // ลิงก์จริงที่ต้องการ redirect ไป
+   
     const realLink = "https://raw.githubusercontent.com/swisszz/CHAKIPTV/refs/heads/main/CHAKIPTV";
 
     if (token === validToken) {
-      // ถ้า token ตรง -> redirect ไปยังลิงก์จริง
+      // 
       window.location.href = realLink;
     } else {
-      // ถ้า token ไม่ตรง -> แสดงข้อความ error
+      //  token  ->  error
       document.body.innerHTML = "<h2>⛔ Token ไม่ถูกต้อง หรือคุณไม่มีสิทธิ์เข้าถึง playlist นี้</h2>";
     }
   </script>
