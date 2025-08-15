@@ -5,8 +5,8 @@
   <title>CHAK IPTV Redirect</title>
   <script>
     // ดึง token จาก URL เช่น ?token=abc123
-    const params = new URLSearchParams(window.location.search);
     const token = params.get("token");
+const validToken = "chakip123"; // ← ต้องตรง
 
     // ลิงก์ raw ที่คุณต้องการ redirect ไป
     const realLink = "https://raw.githubusercontent.com/swisszz/CHAKIPTV/refs/heads/main/CHAKIPTV";
