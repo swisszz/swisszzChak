@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script>
+    // เปลี่ยนลิงก์ด้านล่างเป็นลิงก์ raw ของคุณ
+    const url = "https://raw.githubusercontent.com/swisszz/CHAKIPTV/refs/heads/main/CHAKIPTV";
+    window.location.href = url;
+  </script>
+</head>
+<body>
+  <p>กำลังเปลี่ยนเส้นทางไปยัง Playlist...</p>
+</body>
+</html>
