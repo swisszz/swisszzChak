@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=สบายๆๆ+%f0%9f%98%89;เรียนรู้+IPTV+ไปทุกวัน+🌱;ลอง+Playlist+ใหม่เสมอ+🙌" />
 </p>
+<div align="center">
+
+[![🏠 กลับหน้าแรก](https://img.shields.io/badge/Home-Visit%20Site-blue?style=for-the-badge&logo=home&logoColor=white)](http://eloy.sportsontheweb.net/)
+
+</div>
 
 ---
 
