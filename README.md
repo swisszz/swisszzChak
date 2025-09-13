@@ -72,3 +72,6 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/30
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes: SD⚽",FOX SPORTS MX
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/1971
+
+
+
