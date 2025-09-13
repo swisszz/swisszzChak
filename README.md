@@ -1,6 +1,5 @@
 <h1 align="center">สวัสดีครับ 👋, ผมคือ <span style="color:#00BFFF;">swisszzChak</span></h1>
 <p align="center"><strong>🎮✔✌ ผู้สร้าง IPTV Playlist | นักคัดเลือก M3U | นักสำรวจคอนเทนต์</strong></p>
-<a class="back-button" href="http://eloy.sportsontheweb.net/" target="_blank">🏠</a>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=สบายๆๆ+%f0%9f%98%89;เรียนรู้+IPTV+ไปทุกวัน+🌱;ลอง+Playlist+ใหม่เสมอ+🙌" />
 </p>
