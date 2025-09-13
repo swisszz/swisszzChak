@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- ปุ่มกลับหน้าแรก -->
-  [![🏠 กลับหน้าแรก](https://img.shields.io/badge/Home-Visit%20Site-blue?style=for-the-badge&logo=home&logoColor=white)](http://eloy.sportsontheweb.net/)
+<a class="back-button" href="http://eloy.sportsontheweb.net/" target="_blank">🏠</a>
 </div>
 
 ---
