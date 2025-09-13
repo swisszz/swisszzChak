@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=สบายๆๆ+%f0%9f%98%89;เรียนรู้+IPTV+ไปทุกวัน+🌱;ลอง+Playlist+ใหม่เสมอ+🙌" />
 </p>
+
 <div align="center">
-
-[![🏠 กลับหน้าแรก](https://img.shields.io/badge/Home-Visit%20Site-blue?style=for-the-badge&logo=home&logoColor=white)](http://eloy.sportsontheweb.net/)
-
+  <!-- ปุ่มกลับหน้าแรก -->
+  [![🏠 กลับหน้าแรก](https://img.shields.io/badge/Home-Visit%20Site-blue?style=for-the-badge&logo=home&logoColor=white)](http://eloy.sportsontheweb.net/)
 </div>
 
 ---
@@ -77,6 +77,3 @@ http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/30
 
 #EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes: SD⚽",FOX SPORTS MX
 http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/1971
-
-
-
