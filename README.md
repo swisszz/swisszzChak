@@ -1,5 +1,5 @@
 <h1 align="center">สวัสดีครับ 👋, ผมคือ <span style="color:#00BFFF;">swisszzChak</span></h1>
-<p align="center"><strong>🎮✔✌ ผู้สร้าง IPTV Playlist | นักคัดเลือก M3U | นักสำรวจคอนเทนต์</strong></p>
+<p align="center"><strong>🎮✔✌ ผู้สร้าง คอนเทนต์</strong></p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=435&lines=สบายๆๆ+%f0%9f%98%89;เรียนรู้+IPTV+ไปทุกวัน+🌱;ลอง+Playlist+ใหม่เสมอ+🙌" />
 </p>
@@ -67,13 +67,3 @@
 
 ### 🎮 Featured IPTV Playlist
 
-```m3u
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="▒ ▄ ▅ ▆☆ ECUADOR ☆▆ ▅ ▄ ▒" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/ACTVE_Ecuador-0.png" group-title="Ecuador: Premium TV⭐",ECUADOR
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/26
-
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-name="ECU: ECUAVISA ᴱᶜᵘᵃᵈᵒʳ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/1/1e/Ecuavisa-Logo.svg/800px-Ecuavisa-Logo.svg.png" group-title="Ecuador: Premium TV⭐",ECU: ECUAVISA
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/30
-
-#EXTINF:-1 tvg-id="FoxSportsMexico.mx" tvg-name="Sᴘᴏʀᴛs Sᴰᵀ | FOX SPORTS MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Deportes: SD⚽",FOX SPORTS MX
-http://1.84423.xyz:8000/PSG@273Res/0OPSGMessi24/1971
